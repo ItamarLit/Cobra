@@ -1,4 +1,4 @@
-#include "Lexer.h"
+#include "../Headers/Lexer.h"
 
 // Constructor
 Lexer::Lexer(const std::vector<std::string>& srcCode){

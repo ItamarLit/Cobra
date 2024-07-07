@@ -16,7 +16,6 @@ private:
     std::vector<std::string> srcCode;
     std::vector<Token> tokens;
     char operators[4] = {'+', '-', '/', '*'};
-
     bool inArray(char value);
 };
 
